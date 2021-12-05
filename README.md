@@ -2,8 +2,6 @@
 
 Atualmente sou desenvolvedor focado em Frontend, porém com experiências em Backend. Sempre buscando aprender mais!
 
-Minha stack: React + Nodejs com TypeScript
-
 #
 # Meus conhecimentos
 
